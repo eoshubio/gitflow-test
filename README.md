@@ -1,2 +1,2 @@
 # gitflow-test
-6 번 커밋:  develop
+7 번 커밋:  develop
