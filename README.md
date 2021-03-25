@@ -33,6 +33,18 @@ $ git rebase upstream/develop
 $ git push
 ```
 
-#### 3. PR 후 Merge
+#### 3. PR 후 Squash Merge
+* 머지할 브랜치 선택
+
+![스크린샷 2021-03-25 오전 11 54 12](https://user-images.githubusercontent.com/34477359/112411983-18a8ec80-8d61-11eb-944b-557076a26ff0.png)
+
+* 스쿼시 머지 선택
+
+![스크린샷 2021-03-25 오전 11 55 21](https://user-images.githubusercontent.com/34477359/112412087-4726c780-8d61-11eb-9d6c-03d5dfe7c558.png)
+
+* 통합될 커밋 로그 입력
+
+![스크린샷 2021-03-25 오전 11 55 32](https://user-images.githubusercontent.com/34477359/112412136-586fd400-8d61-11eb-9b5a-121c0f748944.png)
+
 
 
